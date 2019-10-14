@@ -1,0 +1,2 @@
+include ':app', ':Sharedpreferencesmanager'
+rootProject.name='SPM'
