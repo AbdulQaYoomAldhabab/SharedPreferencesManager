@@ -33,7 +33,7 @@ or
 
 2 - use this message if you want to set custom name for   shared Preferences
 ```
-SharedPreferencesManager.initialize(this, "shared Preferences Name");
+SharedPreferencesManager.initialize(context, "shared Preferences Name");
 ```
 # Usage
 To save your data use put method to set any type of data
